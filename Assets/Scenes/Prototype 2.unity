@@ -199,6 +199,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c4bdc9ad5bfd59d48a1b003ab6413193, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &295620055
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 295620047}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06d8561ce0238e946a626c107d82c54a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &425805626
 GameObject:
   m_ObjectHideFlags: 0
@@ -453,6 +465,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c4bdc9ad5bfd59d48a1b003ab6413193, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &654265138
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 654265130}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06d8561ce0238e946a626c107d82c54a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &992285705
 GameObject:
   m_ObjectHideFlags: 0
@@ -661,6 +685,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c4bdc9ad5bfd59d48a1b003ab6413193, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &1606260381
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1606260373}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06d8561ce0238e946a626c107d82c54a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1758491781
 GameObject:
   m_ObjectHideFlags: 0
@@ -694,6 +730,8 @@ MonoBehaviour:
   - {fileID: 4144868948237807193, guid: fac9881e15f2e9645a242c5191d15f7a, type: 3}
   - {fileID: 562956654086484717, guid: 989904a8b527a1e4ea6ca3dcb036c56f, type: 3}
   - {fileID: 5614611514811529446, guid: 2e372b1f31bb6cc479a251cc4b2d14b5, type: 3}
+  startDelay: 2
+  spawnInterval: 1.5
 --- !u!4 &1758491783
 Transform:
   m_ObjectHideFlags: 0
@@ -724,6 +762,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c4bdc9ad5bfd59d48a1b003ab6413193, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &2096234418
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2096234410}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06d8561ce0238e946a626c107d82c54a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1001 &562956654513699271
