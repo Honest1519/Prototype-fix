@@ -12,7 +12,7 @@ public class SpawnManager : MonoBehaviour
         InvokeRepeating("SpawnRandomAnimal", startDelay, spawnInterval);
 
     }
-    private float spawnRangeX = 20;
+    private float spawnRangeX = 10;
     private float spawnRangeZ = 20;
     public float startDelay = 2;
     public float spawnInterval = 1.5f;
